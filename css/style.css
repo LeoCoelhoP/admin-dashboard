@@ -75,7 +75,9 @@ button:active {
 
     padding-left: 1vw;
 }
-
+.projects {
+    margin-left: 4vh;
+}
 .projects-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
@@ -87,6 +89,7 @@ button:active {
     padding: 1vh;
     border-left: 5px solid #bbf7d0;
     border-radius: 10px;
+    
 }
 
 .main-side-bar {
